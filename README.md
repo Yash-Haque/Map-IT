@@ -5,6 +5,6 @@ I work at a place where every now and then I need to look up locations from the 
 Map-IT therefore is an initiative for me to fast track my tedious work of going through every entry verifying the address.
 
 TODO:
-  > Add a dictionary of locations of the country which the data is is made of
-  > Add Regex to better orient each input
-  > Automate
+  * Add a dictionary of locations of the country which the data is is made of
+  * Add Regex to better orient each input
+  * Automate
